@@ -1,0 +1,18 @@
+nav {
+  background-color: var(--bg-nav);
+  color: #fff;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  & ul {
+    display: flex;
+    align-content: center;
+    gap: 18px;
+    & li {
+      &:hover {
+        text-decoration: underline;
+        cursor: pointer;
+      }    
+    }
+  }
+}

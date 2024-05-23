@@ -3,3 +3,6 @@
 @import url('./partials/_reset.css');
 @import url('./partials/_colors.css');
 @import url('./partials/_typography.css');
+@import url('./partials/_layout.css');
+@import url('./partials/_nav.css');
+@import url('./partials/_footer.css');

@@ -1,5 +1,5 @@
 <template>
-  <aside>
+  <aside class="menu">
     Menu
   </aside>
 </template>

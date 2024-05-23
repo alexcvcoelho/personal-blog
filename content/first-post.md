@@ -1,3 +1,6 @@
+---
+title: The example post
+---
 # Arce tandem certamine si Iovis qui
 
 ## Vere mearum
@@ -10,6 +13,7 @@ deque](http://www.dolor.org/et) celeri roganti mecum.
 Ad fulvis tenero sine dominaeque illis quoque in possim Lethaea. Volentem
 aequales velantibus suppressit Phrygum mero curru lumina illo.
 
+```python
     redundancy_personal *= scannerYottabyte;
     if (77 - definition == scrapingBarMirrored) {
         printer_ram_telecommunications(icann_variable_camera, -1);
@@ -23,6 +27,7 @@ aequales velantibus suppressit Phrygum mero curru lumina illo.
     var marketingSanStatic = daw_active_uddi + tweet -
             publishingBandwidthParity;
     kerningDcim.dllMarketingTutorial *= cd_default;
+```
 
 ## Mendesius iamque virgineas Labros
 
